@@ -1,0 +1,18 @@
+This archive contains:
+	* A pre-generated disk image with the Panda Distribution in disks/
+	* The tape images needed to boot and restore the Panda Distribution
+	in tapes/
+	* The boot files in boot/
+	* The ini files for installation (init.ini), boot.ini (for standalone
+	mode and testing), and ether.ini (for instances that 
+	use a dedicated networking interface).  ether.ini will need
+	to be modified to work with NAT and SLiRP.
+	* The original README files in orig_docs/
+
+Further questions and comments may be left the announcement blog post.
+
+TODO:
+	* Write a few scripts to automate some tasks like startup and
+	installation
+  
+ 
