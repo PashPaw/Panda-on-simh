@@ -1,4 +1,4 @@
-Panda Distribution on simh
+# Panda Distribution on simh
 
 Currently, there isn't much here.  It contains:
 
@@ -7,5 +7,3 @@ Currently, there isn't much here.  It contains:
 - A boot.ini for debugging and running standalone. 
 
 - An ether.ini for a dedicated networking interface.
-
-- 
